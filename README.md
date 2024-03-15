@@ -1,2 +1,2 @@
 # MarkdownAndTypora
-Para documentación 
+Para documentación de dinamica, clase Topicos especiales y avanzados
